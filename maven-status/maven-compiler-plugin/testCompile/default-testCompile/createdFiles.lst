@@ -1,0 +1,14 @@
+io\micronaut\example\$FunctionTestDefinition.class
+io\micronaut\example\Client$Intercepted.class
+io\micronaut\example\Client$Intercepted$$proxy0$$AnnotationMetadata.class
+io\micronaut\example\$Client$InterceptedDefinition$$exec1$$AnnotationMetadata.class
+io\micronaut\example\Client$Intercepted$$proxy0.class
+io\micronaut\example\Client.class
+io\micronaut\example\FunctionTest.class
+io\micronaut\example\$Client$InterceptedDefinition$$exec1.class
+io\micronaut\example\$Client$InterceptedDefinition.class
+META-INF\services\io.micronaut.inject.BeanDefinitionReference
+io\micronaut\example\$FunctionTestDefinitionClass.class
+io\micronaut\example\$Client$InterceptedDefinitionClass.class
+io\micronaut\example\$FunctionTestDefinitionClass$$AnnotationMetadata.class
+io\micronaut\example\$Client$InterceptedDefinitionClass$$AnnotationMetadata.class

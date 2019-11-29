@@ -1,0 +1,10 @@
+io\micronaut\example\Function.class
+io\micronaut\example\Message.class
+io\micronaut\example\$FunctionDefinitionClass$$AnnotationMetadata.class
+META-INF\services\io.micronaut.inject.BeanDefinitionReference
+io\micronaut\example\$FunctionDefinition.class
+io\micronaut\example\$FunctionDefinitionClass.class
+io\micronaut\example\$Message$IntrospectionRef.class
+io\micronaut\example\$Message$IntrospectionRef$$AnnotationMetadata.class
+io\micronaut\example\$Message$Introspection.class
+META-INF\services\io.micronaut.core.beans.BeanIntrospectionReference
